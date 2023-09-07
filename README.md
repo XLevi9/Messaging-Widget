@@ -6,7 +6,7 @@ link for jsdelivr : https://cdn.jsdelivr.net/gh/XLevi9/Messaging-Widget@main/mai
 Messaging-Widget is a communication widget that you want to make available for use on various websites worldwide. To integrate it into your website, follow these steps:
 ## HOW TO USE
 To start using the Messaging-Widget, you need to add the following script to your web page:
-### Copy the code below and paste it into the body of your website.
+### Copy the code below and paste it into the body of your website
 <script type="module" src="https://cdn.jsdelivr.net/gh/XLevi9/Messaging-Widget@main/main.js"></script>
 
 ### Additional Customization
